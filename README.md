@@ -1,4 +1,4 @@
-## Oi, eu sou a Wanessa 😁
+## Seja bem vindo ao meu repositório! 🙃
 
  <div>
    <a href="https://github.com/wanessat">
